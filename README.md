@@ -1,2 +1,2 @@
 # abdiwahid-webpage
-I have used HTML and CSS to make webpages.
+A simple webpage built with HTML and CSS to practice styling,layout, and using basic webdesign skill.
